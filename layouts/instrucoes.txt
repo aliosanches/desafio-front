@@ -3,7 +3,10 @@ Importante: Solicite sua chave de API no e-mail suporte@eadplataforma.com
 ## Geral
 	1. Topo: Deverá trazer a foto de perfil de um usuário do endpoint GET /api/1/profile/:id
 	2. Busca: Deverá ser capaz de pesquisar por nome ou e-mail os registros através do endpoint GET /api/1/users
-	3. Menu: Deverá conter os menus Painel, Configurações e Suporte, sendo Configurações e Suporte ilustrativo.
+	3. Menu: Deverá conter os menus Painel, Configurações e Suporte, sendo Suporte ilustrativo.
+	
+## Configurações
+	1. Deve conter um campo para ativar ou desativar o darktheme, salvar no localstorage de forma que ao recarregar a página continue aplicada a configuração.
 
 ## Painel
 	1. Visão Geral
